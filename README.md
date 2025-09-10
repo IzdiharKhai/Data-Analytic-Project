@@ -6,7 +6,7 @@ Dua projek utama menggunakan **Power BI dan Python** untuk analisis COVID-19 di 
 
 ## 1) Power BI — COVID-19 Dashboard
 - KPI cards (Kes Harian, Kes Aktif, Kadar Pemulihan, Status Trend), slicer Negeri & Tarikh, Top 5 Negeri.
-- 📁 Fail: [PowerBI Portfolio.pbix](powerbi/PowerBI Portfolio.pbix)
+- 📁 Fail: [PowerBI Portfolio.pbix]([powerbi/PowerBI Portfolio.pbix](https://github.com/IzdiharKhai/Data-Analytic-Project/blob/main/powerbi/PowerBI%20Portfolio.pbix))
 - 🖼️
 ![Power BI Dashboard](powerbi_dashboard.png)
 
