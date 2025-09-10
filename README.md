@@ -9,7 +9,7 @@ Dua projek utama menggunakan **Power BI dan Python** untuk analisis COVID-19 di 
 - 📁 Fail: [PowerBI Portfolio.pbix]([powerbi/PowerBI Portfolio.pbix](https://github.com/IzdiharKhai/Data-Analytic-Project/raw/main/powerbi/PowerBI%20Portfolio.pbix
 )
 - 🖼️
-![Power BI Dashboard](powerbi_dashboard.png)
+![Power BI Dashboard](images/powerbi_dashboard.PNG)
 
 ## 2) Python — COVID-19 Data Analysis
 - Data cleaning (pandas), visualisasi (line, bar, heatmap), trend tahunan Top 3 negeri.
