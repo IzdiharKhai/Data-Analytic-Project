@@ -21,7 +21,7 @@ Dua projek utama menggunakan **Power BI dan Python** untuk analisis COVID-19 di 
 ---
 
 ### Skills
-Power BI (DAX, Dashboarding) · Excel (Pivot, Slicer, Timeline) · Python (Pandas, Matplotlib, Seaborn)
+Power BI (DAX, Dashboarding) · Python (Pandas, Matplotlib, Seaborn)
 
 ### Contact
 Email: khairulizdihar2311@gmail.com · LinkedIn: *letak link awak di sini*
