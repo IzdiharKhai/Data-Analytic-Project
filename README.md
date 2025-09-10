@@ -14,7 +14,7 @@ Dua projek utama menggunakan **Power BI dan Python** untuk analisis COVID-19 di 
 - Data cleaning (pandas), visualisasi (line, bar, heatmap), trend tahunan Top 3 negeri.
 - 📁 Notebook: [`python/covid19_analysis.ipynb`](python/covid19_analysis.ipynb)
 - 🖼️
-![Python Heatmap](images/python_heatmap.png)
+![Python Heatmap](images/phython_heatmap.PNG)
 
 
 ---
